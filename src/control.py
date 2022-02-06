@@ -1,5 +1,4 @@
 from PyQt5 import uic, QtWidgets
-
 def func_principal():
 
     linha1 = style.lineEdit.text()
